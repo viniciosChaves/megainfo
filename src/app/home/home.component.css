@@ -1,0 +1,15 @@
+#esquerda {
+  float:left;
+  width:25%;
+  height:280px;
+}
+#meio{
+  float:left;
+  width:25%;
+  height:280px;
+}
+#direta{
+  float:right;
+  width:25%;
+  height:280px;
+}
